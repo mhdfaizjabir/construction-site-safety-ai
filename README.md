@@ -279,8 +279,8 @@ gutters when he made contact with overhead power lines...
 
 This project was developed by students at the **University of Doha For Science and Technology (CCIT)**:
 
-| Name | Email |
-|------|-------|
+| Name | 
+|------|
 | Mohammad Faiz Jabir |
 | Abein Gijo |
 | Mohd Soad Bin Bashar 
