@@ -6,6 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+## Demo
+
+https://github.com/user-attachments/assets/bce68ae0-46b4-45c9-af34-aab7ac34c981
 
 ## 📋 Overview
 
@@ -283,8 +286,9 @@ This project was developed by students at the **University of Doha For Science a
 |------|
 | Mohammad Faiz Jabir |
 | Abein Gijo |
-| Mohd Soad Bin Bashar 
 | Keshob Kumar Sarkar|
+| Mohd Soad |
+
 
 ---
 
